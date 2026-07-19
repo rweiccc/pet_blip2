@@ -283,10 +283,10 @@ metric: accuracy
 
    展示至少 5 张测试图片，给出 caption、真实类别和两个模型的预测类别。
 
-7. **学生仓库结构**
+7. **仓库结构**
 
 ```text
-student-blip2-pet-fusion/
+blip2-pet-fusion/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
@@ -298,11 +298,11 @@ student-blip2-pet-fusion/
 │   └── evaluate.py
 ├── captions/
 │   └── captions.json
+├── checkpoints/
 ├── logs/
 ├── results/
 ├── report/
 │   └── report.md
-└── PROCESS_RECORD.md
 ```
 
 ## 9. 评分建议
