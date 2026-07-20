@@ -54,7 +54,6 @@ Caption -> Text Encoder -> Text Feature ----┘
 
 - 使用模型：
 - 使用 prompt：
-- `max_new_tokens`：
 - 是否使用教师提供的 caption：是 / 否
 - 实际生成 caption 数量：
 - Caption 保存格式：JSON / JSONL / CSV / 其他
