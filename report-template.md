@@ -41,8 +41,7 @@ Caption -> Text Encoder -> Text Feature ----┘
 - 训练图像数：
 - 验证图像数：
 - 测试图像数：
-- 使用设备：GPU
-- 总训练耗时：
+
 
 请说明如何选择小型数据子集：
 
@@ -54,20 +53,18 @@ Caption -> Text Encoder -> Text Feature ----┘
 
 - 使用模型：
 - 使用 prompt：
-- 是否使用教师提供的 caption：是 / 否
 - 实际生成 caption 数量：
-- Caption 保存格式：JSON / JSONL / CSV / 其他
-- Caption 生成耗时：
+- Caption 保存格式：JSON / txt / CSV / 其他
 
-至少展示 5 个 caption 样例：
+
+至少展示 3 个 caption 样例：
 
 | 图片编号 | 真实类别 | BLIP-2 Caption |
 |---|---|---|
 | 1 |  |  |
 | 2 |  |  |
 | 3 |  |  |
-| 4 |  |  |
-| 5 |  |  |
+
 
 请简要说明 caption 是否能够描述图像中的宠物：
 
