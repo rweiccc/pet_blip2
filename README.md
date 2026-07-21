@@ -120,7 +120,7 @@ Image
 
 ### 5.1 Image Encoder
 
-推荐使用 ImageNet 预训练的 ResNet-18：
+可以使用 ImageNet 预训练的 ResNet-18：
 
 ```text
 Image
@@ -128,13 +128,6 @@ Image
   -> Global Average Pooling
   -> 512-d Image Feature
 ```
-
-要求：
-
-- 可以直接使用 `torchvision.models.resnet18`；
-- 删除原来的 ImageNet 分类层；
-- 可以冻结 ResNet-18，只训练后面的分类层；
-- 也可以解冻最后一层进行简单微调。
 
 ### 5.2 Text Encoder
 
@@ -274,7 +267,7 @@ metric: accuracy
 
 6. **预测结果展示**
 
-   展示至少 5 张测试图片，给出 caption、真实类别和两个模型的预测类别。
+   展示至少 3 张测试图片，给出 caption、真实类别和两个模型的预测类别。
 
 7. **仓库结构**
 
