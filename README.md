@@ -96,12 +96,6 @@ staffordshire_bull_terrier
 Salesforce/blip2-opt-2.7b
 ```
 
-推荐 prompt：
-
-```text
-Describe the animal in this image in one sentence.
-```
-
 生成流程：
 
 ```text
@@ -109,7 +103,7 @@ Image
   -> BLIP-2 Processor
   -> Frozen BLIP-2
   -> Caption
-  -> 保存到 JSON / JSONL / CSV 文件
+  -> 保存到 JSON / txt / CSV 文件
 ```
 
 要求：
@@ -119,7 +113,6 @@ Image
 - caption 文件中至少保存图像路径、类别和生成文本；
 - 图像与 caption 必须能够正确对应；
 - 至少展示 5 个 caption 生成样例；
-- 如果个人电脑无法运行 BLIP-2，可以使用教师提供的 caption 文件，但需要独立跑通至少 10 张图像的生成过程。
 
 ## 5. 模型结构要求
 
@@ -201,7 +194,7 @@ Caption -> Embedding -> GRU/Mean -> Text Feature ┘
 ```text
 epochs: 5-10
 batch size: 16 or 32
-optimizer: Adam / AdamW
+optimizer: Adam / SGD
 learning rate: 1e-3
 loss: CrossEntropyLoss
 metric: accuracy
