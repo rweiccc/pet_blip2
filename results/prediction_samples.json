@@ -1,0 +1,52 @@
+[
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_153.jpg",
+    "image_name": "Siamese_153.jpg",
+    "true_class": "Siamese",
+    "caption": "a siamese cat with distinctive colorpoint coat pattern",
+    "image_only_pred": "Siamese",
+    "image_only_correct": true,
+    "fusion_pred": "Siamese",
+    "fusion_correct": true
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_129.jpg",
+    "image_name": "Abyssinian_129.jpg",
+    "true_class": "Abyssinian",
+    "caption": "a brown abyssinian cat with large ears sitting on a white background",
+    "image_only_pred": "Abyssinian",
+    "image_only_correct": true,
+    "fusion_pred": "Abyssinian",
+    "fusion_correct": true
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_184.jpg",
+    "image_name": "Abyssinian_184.jpg",
+    "true_class": "Abyssinian",
+    "caption": "a brown abyssinian cat with large ears sitting on a white background",
+    "image_only_pred": "Abyssinian",
+    "image_only_correct": true,
+    "fusion_pred": "Abyssinian",
+    "fusion_correct": true
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_111.jpg",
+    "image_name": "Siamese_111.jpg",
+    "true_class": "Siamese",
+    "caption": "a siamese cat with blue eyes and dark brown points",
+    "image_only_pred": "Siamese",
+    "image_only_correct": true,
+    "fusion_pred": "Siamese",
+    "fusion_correct": true
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_191.jpg",
+    "image_name": "Bengal_191.jpg",
+    "true_class": "Bengal",
+    "caption": "a bengal cat with leopard spots standing on a wooden floor",
+    "image_only_pred": "Bengal",
+    "image_only_correct": true,
+    "fusion_pred": "Bengal",
+    "fusion_correct": true
+  }
+]

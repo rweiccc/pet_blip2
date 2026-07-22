@@ -1,0 +1,18 @@
+{
+  "image_only_test_acc": 73.26732673267327,
+  "fusion_test_acc": 87.12871287128714,
+  "accuracy_diff": 13.861386138613867,
+  "num_classes": 10,
+  "selected_classes": [
+    "Abyssinian",
+    "Bengal",
+    "Birman",
+    "Persian",
+    "Siamese",
+    "american_bulldog",
+    "american_pit_bull_terrier",
+    "english_cocker_spaniel",
+    "english_setter",
+    "staffordshire_bull_terrier"
+  ]
+}
