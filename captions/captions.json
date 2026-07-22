@@ -1,0 +1,3495 @@
+[
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_100.jpg",
+    "image_name": "Abyssinian_100.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_101.jpg",
+    "image_name": "Abyssinian_101.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_102.jpg",
+    "image_name": "Abyssinian_102.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_103.jpg",
+    "image_name": "Abyssinian_103.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_104.jpg",
+    "image_name": "Abyssinian_104.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_105.jpg",
+    "image_name": "Abyssinian_105.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_106.jpg",
+    "image_name": "Abyssinian_106.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_107.jpg",
+    "image_name": "Abyssinian_107.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_108.jpg",
+    "image_name": "Abyssinian_108.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_109.jpg",
+    "image_name": "Abyssinian_109.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_10.jpg",
+    "image_name": "Abyssinian_10.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_110.jpg",
+    "image_name": "Abyssinian_110.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_111.jpg",
+    "image_name": "Abyssinian_111.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_112.jpg",
+    "image_name": "Abyssinian_112.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_113.jpg",
+    "image_name": "Abyssinian_113.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_114.jpg",
+    "image_name": "Abyssinian_114.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_115.jpg",
+    "image_name": "Abyssinian_115.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_116.jpg",
+    "image_name": "Abyssinian_116.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_117.jpg",
+    "image_name": "Abyssinian_117.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_118.jpg",
+    "image_name": "Abyssinian_118.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_119.jpg",
+    "image_name": "Abyssinian_119.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_11.jpg",
+    "image_name": "Abyssinian_11.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_120.jpg",
+    "image_name": "Abyssinian_120.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_121.jpg",
+    "image_name": "Abyssinian_121.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_122.jpg",
+    "image_name": "Abyssinian_122.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_123.jpg",
+    "image_name": "Abyssinian_123.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_124.jpg",
+    "image_name": "Abyssinian_124.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_125.jpg",
+    "image_name": "Abyssinian_125.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_126.jpg",
+    "image_name": "Abyssinian_126.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_127.jpg",
+    "image_name": "Abyssinian_127.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_128.jpg",
+    "image_name": "Abyssinian_128.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_129.jpg",
+    "image_name": "Abyssinian_129.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_12.jpg",
+    "image_name": "Abyssinian_12.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_130.jpg",
+    "image_name": "Abyssinian_130.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_131.jpg",
+    "image_name": "Abyssinian_131.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_132.jpg",
+    "image_name": "Abyssinian_132.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_133.jpg",
+    "image_name": "Abyssinian_133.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_134.jpg",
+    "image_name": "Abyssinian_134.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_135.jpg",
+    "image_name": "Abyssinian_135.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_136.jpg",
+    "image_name": "Abyssinian_136.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_137.jpg",
+    "image_name": "Abyssinian_137.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_138.jpg",
+    "image_name": "Abyssinian_138.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_139.jpg",
+    "image_name": "Abyssinian_139.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_13.jpg",
+    "image_name": "Abyssinian_13.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_140.jpg",
+    "image_name": "Abyssinian_140.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_141.jpg",
+    "image_name": "Abyssinian_141.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_142.jpg",
+    "image_name": "Abyssinian_142.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_143.jpg",
+    "image_name": "Abyssinian_143.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_144.jpg",
+    "image_name": "Abyssinian_144.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_145.jpg",
+    "image_name": "Abyssinian_145.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_100.jpg",
+    "image_name": "Bengal_100.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_101.jpg",
+    "image_name": "Bengal_101.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_102.jpg",
+    "image_name": "Bengal_102.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_103.jpg",
+    "image_name": "Bengal_103.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_104.jpg",
+    "image_name": "Bengal_104.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_105.jpg",
+    "image_name": "Bengal_105.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_106.jpg",
+    "image_name": "Bengal_106.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_107.jpg",
+    "image_name": "Bengal_107.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_108.jpg",
+    "image_name": "Bengal_108.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_109.jpg",
+    "image_name": "Bengal_109.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_10.jpg",
+    "image_name": "Bengal_10.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_110.jpg",
+    "image_name": "Bengal_110.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_111.jpg",
+    "image_name": "Bengal_111.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_112.jpg",
+    "image_name": "Bengal_112.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_113.jpg",
+    "image_name": "Bengal_113.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_114.jpg",
+    "image_name": "Bengal_114.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_115.jpg",
+    "image_name": "Bengal_115.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_116.jpg",
+    "image_name": "Bengal_116.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_117.jpg",
+    "image_name": "Bengal_117.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_118.jpg",
+    "image_name": "Bengal_118.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_119.jpg",
+    "image_name": "Bengal_119.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_11.jpg",
+    "image_name": "Bengal_11.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_120.jpg",
+    "image_name": "Bengal_120.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_121.jpg",
+    "image_name": "Bengal_121.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_122.jpg",
+    "image_name": "Bengal_122.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_123.jpg",
+    "image_name": "Bengal_123.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_124.jpg",
+    "image_name": "Bengal_124.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_125.jpg",
+    "image_name": "Bengal_125.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_126.jpg",
+    "image_name": "Bengal_126.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_127.jpg",
+    "image_name": "Bengal_127.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_128.jpg",
+    "image_name": "Bengal_128.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_129.jpg",
+    "image_name": "Bengal_129.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_12.jpg",
+    "image_name": "Bengal_12.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_130.jpg",
+    "image_name": "Bengal_130.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_131.jpg",
+    "image_name": "Bengal_131.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_132.jpg",
+    "image_name": "Bengal_132.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_133.jpg",
+    "image_name": "Bengal_133.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_134.jpg",
+    "image_name": "Bengal_134.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_135.jpg",
+    "image_name": "Bengal_135.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_136.jpg",
+    "image_name": "Bengal_136.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_137.jpg",
+    "image_name": "Bengal_137.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_138.jpg",
+    "image_name": "Bengal_138.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_139.jpg",
+    "image_name": "Bengal_139.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_13.jpg",
+    "image_name": "Bengal_13.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_140.jpg",
+    "image_name": "Bengal_140.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_141.jpg",
+    "image_name": "Bengal_141.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_142.jpg",
+    "image_name": "Bengal_142.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_143.jpg",
+    "image_name": "Bengal_143.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_144.jpg",
+    "image_name": "Bengal_144.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_145.jpg",
+    "image_name": "Bengal_145.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_100.jpg",
+    "image_name": "Birman_100.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_101.jpg",
+    "image_name": "Birman_101.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_102.jpg",
+    "image_name": "Birman_102.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_103.jpg",
+    "image_name": "Birman_103.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_104.jpg",
+    "image_name": "Birman_104.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_105.jpg",
+    "image_name": "Birman_105.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_106.jpg",
+    "image_name": "Birman_106.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_107.jpg",
+    "image_name": "Birman_107.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_108.jpg",
+    "image_name": "Birman_108.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_109.jpg",
+    "image_name": "Birman_109.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_10.jpg",
+    "image_name": "Birman_10.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_110.jpg",
+    "image_name": "Birman_110.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_111.jpg",
+    "image_name": "Birman_111.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_112.jpg",
+    "image_name": "Birman_112.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_113.jpg",
+    "image_name": "Birman_113.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_114.jpg",
+    "image_name": "Birman_114.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_115.jpg",
+    "image_name": "Birman_115.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_116.jpg",
+    "image_name": "Birman_116.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_117.jpg",
+    "image_name": "Birman_117.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_118.jpg",
+    "image_name": "Birman_118.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_119.jpg",
+    "image_name": "Birman_119.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_11.jpg",
+    "image_name": "Birman_11.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_120.jpg",
+    "image_name": "Birman_120.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_121.jpg",
+    "image_name": "Birman_121.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_122.jpg",
+    "image_name": "Birman_122.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_123.jpg",
+    "image_name": "Birman_123.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_124.jpg",
+    "image_name": "Birman_124.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_125.jpg",
+    "image_name": "Birman_125.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_126.jpg",
+    "image_name": "Birman_126.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_127.jpg",
+    "image_name": "Birman_127.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_128.jpg",
+    "image_name": "Birman_128.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_129.jpg",
+    "image_name": "Birman_129.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_12.jpg",
+    "image_name": "Birman_12.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_130.jpg",
+    "image_name": "Birman_130.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_131.jpg",
+    "image_name": "Birman_131.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_132.jpg",
+    "image_name": "Birman_132.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_133.jpg",
+    "image_name": "Birman_133.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_134.jpg",
+    "image_name": "Birman_134.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_135.jpg",
+    "image_name": "Birman_135.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_136.jpg",
+    "image_name": "Birman_136.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_137.jpg",
+    "image_name": "Birman_137.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_138.jpg",
+    "image_name": "Birman_138.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_139.jpg",
+    "image_name": "Birman_139.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_13.jpg",
+    "image_name": "Birman_13.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_140.jpg",
+    "image_name": "Birman_140.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_141.jpg",
+    "image_name": "Birman_141.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_142.jpg",
+    "image_name": "Birman_142.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_143.jpg",
+    "image_name": "Birman_143.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_144.jpg",
+    "image_name": "Birman_144.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_145.jpg",
+    "image_name": "Birman_145.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_100.jpg",
+    "image_name": "Persian_100.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_101.jpg",
+    "image_name": "Persian_101.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_102.jpg",
+    "image_name": "Persian_102.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_103.jpg",
+    "image_name": "Persian_103.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_104.jpg",
+    "image_name": "Persian_104.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_105.jpg",
+    "image_name": "Persian_105.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_106.jpg",
+    "image_name": "Persian_106.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_107.jpg",
+    "image_name": "Persian_107.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_108.jpg",
+    "image_name": "Persian_108.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_10.jpg",
+    "image_name": "Persian_10.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_111.jpg",
+    "image_name": "Persian_111.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_112.jpg",
+    "image_name": "Persian_112.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_114.jpg",
+    "image_name": "Persian_114.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_115.jpg",
+    "image_name": "Persian_115.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_116.jpg",
+    "image_name": "Persian_116.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_117.jpg",
+    "image_name": "Persian_117.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_118.jpg",
+    "image_name": "Persian_118.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_11.jpg",
+    "image_name": "Persian_11.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_120.jpg",
+    "image_name": "Persian_120.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_121.jpg",
+    "image_name": "Persian_121.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_122.jpg",
+    "image_name": "Persian_122.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_123.jpg",
+    "image_name": "Persian_123.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_125.jpg",
+    "image_name": "Persian_125.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_126.jpg",
+    "image_name": "Persian_126.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_128.jpg",
+    "image_name": "Persian_128.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_129.jpg",
+    "image_name": "Persian_129.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_12.jpg",
+    "image_name": "Persian_12.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_131.jpg",
+    "image_name": "Persian_131.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_132.jpg",
+    "image_name": "Persian_132.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_133.jpg",
+    "image_name": "Persian_133.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_134.jpg",
+    "image_name": "Persian_134.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_135.jpg",
+    "image_name": "Persian_135.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_136.jpg",
+    "image_name": "Persian_136.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_137.jpg",
+    "image_name": "Persian_137.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_138.jpg",
+    "image_name": "Persian_138.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_139.jpg",
+    "image_name": "Persian_139.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_13.jpg",
+    "image_name": "Persian_13.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_140.jpg",
+    "image_name": "Persian_140.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_141.jpg",
+    "image_name": "Persian_141.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_143.jpg",
+    "image_name": "Persian_143.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_144.jpg",
+    "image_name": "Persian_144.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_145.jpg",
+    "image_name": "Persian_145.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_147.jpg",
+    "image_name": "Persian_147.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_149.jpg",
+    "image_name": "Persian_149.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_14.jpg",
+    "image_name": "Persian_14.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_150.jpg",
+    "image_name": "Persian_150.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_152.jpg",
+    "image_name": "Persian_152.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_153.jpg",
+    "image_name": "Persian_153.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_155.jpg",
+    "image_name": "Persian_155.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_156.jpg",
+    "image_name": "Persian_156.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_100.jpg",
+    "image_name": "Siamese_100.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_101.jpg",
+    "image_name": "Siamese_101.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_102.jpg",
+    "image_name": "Siamese_102.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_103.jpg",
+    "image_name": "Siamese_103.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_104.jpg",
+    "image_name": "Siamese_104.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_106.jpg",
+    "image_name": "Siamese_106.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_108.jpg",
+    "image_name": "Siamese_108.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_109.jpg",
+    "image_name": "Siamese_109.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_110.jpg",
+    "image_name": "Siamese_110.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_111.jpg",
+    "image_name": "Siamese_111.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_112.jpg",
+    "image_name": "Siamese_112.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_113.jpg",
+    "image_name": "Siamese_113.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_114.jpg",
+    "image_name": "Siamese_114.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_115.jpg",
+    "image_name": "Siamese_115.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_116.jpg",
+    "image_name": "Siamese_116.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_117.jpg",
+    "image_name": "Siamese_117.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_119.jpg",
+    "image_name": "Siamese_119.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_120.jpg",
+    "image_name": "Siamese_120.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_122.jpg",
+    "image_name": "Siamese_122.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_125.jpg",
+    "image_name": "Siamese_125.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_126.jpg",
+    "image_name": "Siamese_126.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_127.jpg",
+    "image_name": "Siamese_127.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_128.jpg",
+    "image_name": "Siamese_128.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_129.jpg",
+    "image_name": "Siamese_129.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_130.jpg",
+    "image_name": "Siamese_130.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_131.jpg",
+    "image_name": "Siamese_131.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_133.jpg",
+    "image_name": "Siamese_133.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_135.jpg",
+    "image_name": "Siamese_135.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_136.jpg",
+    "image_name": "Siamese_136.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_137.jpg",
+    "image_name": "Siamese_137.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_138.jpg",
+    "image_name": "Siamese_138.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_139.jpg",
+    "image_name": "Siamese_139.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_140.jpg",
+    "image_name": "Siamese_140.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_141.jpg",
+    "image_name": "Siamese_141.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_142.jpg",
+    "image_name": "Siamese_142.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_143.jpg",
+    "image_name": "Siamese_143.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_144.jpg",
+    "image_name": "Siamese_144.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_145.jpg",
+    "image_name": "Siamese_145.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_146.jpg",
+    "image_name": "Siamese_146.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_147.jpg",
+    "image_name": "Siamese_147.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_148.jpg",
+    "image_name": "Siamese_148.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_149.jpg",
+    "image_name": "Siamese_149.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_14.jpg",
+    "image_name": "Siamese_14.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_150.jpg",
+    "image_name": "Siamese_150.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_151.jpg",
+    "image_name": "Siamese_151.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_152.jpg",
+    "image_name": "Siamese_152.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_153.jpg",
+    "image_name": "Siamese_153.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_154.jpg",
+    "image_name": "Siamese_154.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_155.jpg",
+    "image_name": "Siamese_155.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_156.jpg",
+    "image_name": "Siamese_156.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_146.jpg",
+    "image_name": "Abyssinian_146.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_148.jpg",
+    "image_name": "Abyssinian_148.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_149.jpg",
+    "image_name": "Abyssinian_149.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_14.jpg",
+    "image_name": "Abyssinian_14.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_150.jpg",
+    "image_name": "Abyssinian_150.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_151.jpg",
+    "image_name": "Abyssinian_151.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_152.jpg",
+    "image_name": "Abyssinian_152.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_153.jpg",
+    "image_name": "Abyssinian_153.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_154.jpg",
+    "image_name": "Abyssinian_154.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_155.jpg",
+    "image_name": "Abyssinian_155.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_156.jpg",
+    "image_name": "Abyssinian_156.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_157.jpg",
+    "image_name": "Abyssinian_157.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_158.jpg",
+    "image_name": "Abyssinian_158.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_159.jpg",
+    "image_name": "Abyssinian_159.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_15.jpg",
+    "image_name": "Abyssinian_15.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_160.jpg",
+    "image_name": "Abyssinian_160.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_161.jpg",
+    "image_name": "Abyssinian_161.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_164.jpg",
+    "image_name": "Abyssinian_164.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_165.jpg",
+    "image_name": "Abyssinian_165.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_166.jpg",
+    "image_name": "Abyssinian_166.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_167.jpg",
+    "image_name": "Abyssinian_167.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_168.jpg",
+    "image_name": "Abyssinian_168.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_169.jpg",
+    "image_name": "Abyssinian_169.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_16.jpg",
+    "image_name": "Abyssinian_16.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_170.jpg",
+    "image_name": "Abyssinian_170.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_172.jpg",
+    "image_name": "Abyssinian_172.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_173.jpg",
+    "image_name": "Abyssinian_173.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_174.jpg",
+    "image_name": "Abyssinian_174.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_175.jpg",
+    "image_name": "Abyssinian_175.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_176.jpg",
+    "image_name": "Abyssinian_176.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_177.jpg",
+    "image_name": "Abyssinian_177.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_178.jpg",
+    "image_name": "Abyssinian_178.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_179.jpg",
+    "image_name": "Abyssinian_179.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_17.jpg",
+    "image_name": "Abyssinian_17.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_180.jpg",
+    "image_name": "Abyssinian_180.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_181.jpg",
+    "image_name": "Abyssinian_181.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_182.jpg",
+    "image_name": "Abyssinian_182.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_183.jpg",
+    "image_name": "Abyssinian_183.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_184.jpg",
+    "image_name": "Abyssinian_184.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_185.jpg",
+    "image_name": "Abyssinian_185.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_18.jpg",
+    "image_name": "Abyssinian_18.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_190.jpg",
+    "image_name": "Abyssinian_190.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_191.jpg",
+    "image_name": "Abyssinian_191.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a beautiful abyssinian cat portrait in studio lighting"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_192.jpg",
+    "image_name": "Abyssinian_192.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_193.jpg",
+    "image_name": "Abyssinian_193.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_195.jpg",
+    "image_name": "Abyssinian_195.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_196.jpg",
+    "image_name": "Abyssinian_196.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_197.jpg",
+    "image_name": "Abyssinian_197.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_19.jpg",
+    "image_name": "Abyssinian_19.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "an abyssinian cat with short fur looking at the camera"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Abyssinian_1.jpg",
+    "image_name": "Abyssinian_1.jpg",
+    "class_name": "Abyssinian",
+    "class_idx": 0,
+    "caption": "a brown abyssinian cat with large ears sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_146.jpg",
+    "image_name": "Bengal_146.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_147.jpg",
+    "image_name": "Bengal_147.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_148.jpg",
+    "image_name": "Bengal_148.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_149.jpg",
+    "image_name": "Bengal_149.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_14.jpg",
+    "image_name": "Bengal_14.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_150.jpg",
+    "image_name": "Bengal_150.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_151.jpg",
+    "image_name": "Bengal_151.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_152.jpg",
+    "image_name": "Bengal_152.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_153.jpg",
+    "image_name": "Bengal_153.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_154.jpg",
+    "image_name": "Bengal_154.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_155.jpg",
+    "image_name": "Bengal_155.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_156.jpg",
+    "image_name": "Bengal_156.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_157.jpg",
+    "image_name": "Bengal_157.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_158.jpg",
+    "image_name": "Bengal_158.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_159.jpg",
+    "image_name": "Bengal_159.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_15.jpg",
+    "image_name": "Bengal_15.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_160.jpg",
+    "image_name": "Bengal_160.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_161.jpg",
+    "image_name": "Bengal_161.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_162.jpg",
+    "image_name": "Bengal_162.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_163.jpg",
+    "image_name": "Bengal_163.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_164.jpg",
+    "image_name": "Bengal_164.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_165.jpg",
+    "image_name": "Bengal_165.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_166.jpg",
+    "image_name": "Bengal_166.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_167.jpg",
+    "image_name": "Bengal_167.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_168.jpg",
+    "image_name": "Bengal_168.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_169.jpg",
+    "image_name": "Bengal_169.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_16.jpg",
+    "image_name": "Bengal_16.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_170.jpg",
+    "image_name": "Bengal_170.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_171.jpg",
+    "image_name": "Bengal_171.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_172.jpg",
+    "image_name": "Bengal_172.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_173.jpg",
+    "image_name": "Bengal_173.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_174.jpg",
+    "image_name": "Bengal_174.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_175.jpg",
+    "image_name": "Bengal_175.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_176.jpg",
+    "image_name": "Bengal_176.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_177.jpg",
+    "image_name": "Bengal_177.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_178.jpg",
+    "image_name": "Bengal_178.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_179.jpg",
+    "image_name": "Bengal_179.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_17.jpg",
+    "image_name": "Bengal_17.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_180.jpg",
+    "image_name": "Bengal_180.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_182.jpg",
+    "image_name": "Bengal_182.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_183.jpg",
+    "image_name": "Bengal_183.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_184.jpg",
+    "image_name": "Bengal_184.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_185.jpg",
+    "image_name": "Bengal_185.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_186.jpg",
+    "image_name": "Bengal_186.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_187.jpg",
+    "image_name": "Bengal_187.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_188.jpg",
+    "image_name": "Bengal_188.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a spotted bengal cat with green eyes looking curious"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_189.jpg",
+    "image_name": "Bengal_189.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_18.jpg",
+    "image_name": "Bengal_18.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with distinctive rosette patterns on its fur"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_190.jpg",
+    "image_name": "Bengal_190.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Bengal_191.jpg",
+    "image_name": "Bengal_191.jpg",
+    "class_name": "Bengal",
+    "class_idx": 1,
+    "caption": "a bengal cat with leopard spots standing on a wooden floor"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_146.jpg",
+    "image_name": "Birman_146.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_147.jpg",
+    "image_name": "Birman_147.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_148.jpg",
+    "image_name": "Birman_148.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_149.jpg",
+    "image_name": "Birman_149.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_14.jpg",
+    "image_name": "Birman_14.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_150.jpg",
+    "image_name": "Birman_150.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_151.jpg",
+    "image_name": "Birman_151.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_152.jpg",
+    "image_name": "Birman_152.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_153.jpg",
+    "image_name": "Birman_153.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_154.jpg",
+    "image_name": "Birman_154.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_155.jpg",
+    "image_name": "Birman_155.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_156.jpg",
+    "image_name": "Birman_156.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_157.jpg",
+    "image_name": "Birman_157.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_158.jpg",
+    "image_name": "Birman_158.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_159.jpg",
+    "image_name": "Birman_159.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_15.jpg",
+    "image_name": "Birman_15.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_160.jpg",
+    "image_name": "Birman_160.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_161.jpg",
+    "image_name": "Birman_161.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_162.jpg",
+    "image_name": "Birman_162.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_163.jpg",
+    "image_name": "Birman_163.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_164.jpg",
+    "image_name": "Birman_164.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_165.jpg",
+    "image_name": "Birman_165.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_166.jpg",
+    "image_name": "Birman_166.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_167.jpg",
+    "image_name": "Birman_167.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_168.jpg",
+    "image_name": "Birman_168.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_169.jpg",
+    "image_name": "Birman_169.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_16.jpg",
+    "image_name": "Birman_16.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_170.jpg",
+    "image_name": "Birman_170.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_171.jpg",
+    "image_name": "Birman_171.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_172.jpg",
+    "image_name": "Birman_172.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_173.jpg",
+    "image_name": "Birman_173.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_174.jpg",
+    "image_name": "Birman_174.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_175.jpg",
+    "image_name": "Birman_175.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_176.jpg",
+    "image_name": "Birman_176.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_177.jpg",
+    "image_name": "Birman_177.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_178.jpg",
+    "image_name": "Birman_178.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_179.jpg",
+    "image_name": "Birman_179.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_17.jpg",
+    "image_name": "Birman_17.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_180.jpg",
+    "image_name": "Birman_180.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_181.jpg",
+    "image_name": "Birman_181.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_182.jpg",
+    "image_name": "Birman_182.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_183.jpg",
+    "image_name": "Birman_183.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_184.jpg",
+    "image_name": "Birman_184.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_185.jpg",
+    "image_name": "Birman_185.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_186.jpg",
+    "image_name": "Birman_186.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_187.jpg",
+    "image_name": "Birman_187.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_188.jpg",
+    "image_name": "Birman_188.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a sacred birman cat with dark points and white gloves"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_189.jpg",
+    "image_name": "Birman_189.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_18.jpg",
+    "image_name": "Birman_18.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a fluffy birman cat with white paws and blue eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Birman_190.jpg",
+    "image_name": "Birman_190.jpg",
+    "class_name": "Birman",
+    "class_idx": 2,
+    "caption": "a birman cat with long silky fur sitting gracefully"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_158.jpg",
+    "image_name": "Persian_158.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_159.jpg",
+    "image_name": "Persian_159.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_15.jpg",
+    "image_name": "Persian_15.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_160.jpg",
+    "image_name": "Persian_160.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_161.jpg",
+    "image_name": "Persian_161.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_162.jpg",
+    "image_name": "Persian_162.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_163.jpg",
+    "image_name": "Persian_163.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_164.jpg",
+    "image_name": "Persian_164.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_165.jpg",
+    "image_name": "Persian_165.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_166.jpg",
+    "image_name": "Persian_166.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_168.jpg",
+    "image_name": "Persian_168.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_169.jpg",
+    "image_name": "Persian_169.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_16.jpg",
+    "image_name": "Persian_16.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_170.jpg",
+    "image_name": "Persian_170.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_171.jpg",
+    "image_name": "Persian_171.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_172.jpg",
+    "image_name": "Persian_172.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_173.jpg",
+    "image_name": "Persian_173.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_174.jpg",
+    "image_name": "Persian_174.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_175.jpg",
+    "image_name": "Persian_175.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_176.jpg",
+    "image_name": "Persian_176.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_179.jpg",
+    "image_name": "Persian_179.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_17.jpg",
+    "image_name": "Persian_17.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_180.jpg",
+    "image_name": "Persian_180.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_181.jpg",
+    "image_name": "Persian_181.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_182.jpg",
+    "image_name": "Persian_182.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_183.jpg",
+    "image_name": "Persian_183.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_184.jpg",
+    "image_name": "Persian_184.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_185.jpg",
+    "image_name": "Persian_185.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_186.jpg",
+    "image_name": "Persian_186.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_187.jpg",
+    "image_name": "Persian_187.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_188.jpg",
+    "image_name": "Persian_188.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_189.jpg",
+    "image_name": "Persian_189.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_18.jpg",
+    "image_name": "Persian_18.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_190.jpg",
+    "image_name": "Persian_190.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_191.jpg",
+    "image_name": "Persian_191.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_192.jpg",
+    "image_name": "Persian_192.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_193.jpg",
+    "image_name": "Persian_193.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_194.jpg",
+    "image_name": "Persian_194.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_195.jpg",
+    "image_name": "Persian_195.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_196.jpg",
+    "image_name": "Persian_196.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_197.jpg",
+    "image_name": "Persian_197.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_19.jpg",
+    "image_name": "Persian_19.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_1.jpg",
+    "image_name": "Persian_1.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_200.jpg",
+    "image_name": "Persian_200.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_201.jpg",
+    "image_name": "Persian_201.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_202.jpg",
+    "image_name": "Persian_202.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_206.jpg",
+    "image_name": "Persian_206.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_20.jpg",
+    "image_name": "Persian_20.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a beautiful persian cat with big round eyes"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_213.jpg",
+    "image_name": "Persian_213.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a persian cat with long thick fur sitting on a cushion"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Persian_217.jpg",
+    "image_name": "Persian_217.jpg",
+    "class_name": "Persian",
+    "class_idx": 3,
+    "caption": "a fluffy white persian cat with a flat face"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_157.jpg",
+    "image_name": "Siamese_157.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_158.jpg",
+    "image_name": "Siamese_158.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_159.jpg",
+    "image_name": "Siamese_159.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_160.jpg",
+    "image_name": "Siamese_160.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_161.jpg",
+    "image_name": "Siamese_161.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_162.jpg",
+    "image_name": "Siamese_162.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_163.jpg",
+    "image_name": "Siamese_163.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_164.jpg",
+    "image_name": "Siamese_164.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_165.jpg",
+    "image_name": "Siamese_165.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_167.jpg",
+    "image_name": "Siamese_167.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_168.jpg",
+    "image_name": "Siamese_168.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_169.jpg",
+    "image_name": "Siamese_169.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_170.jpg",
+    "image_name": "Siamese_170.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_171.jpg",
+    "image_name": "Siamese_171.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_172.jpg",
+    "image_name": "Siamese_172.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_173.jpg",
+    "image_name": "Siamese_173.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_174.jpg",
+    "image_name": "Siamese_174.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_175.jpg",
+    "image_name": "Siamese_175.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_176.jpg",
+    "image_name": "Siamese_176.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_178.jpg",
+    "image_name": "Siamese_178.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_179.jpg",
+    "image_name": "Siamese_179.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_17.jpg",
+    "image_name": "Siamese_17.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_180.jpg",
+    "image_name": "Siamese_180.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_181.jpg",
+    "image_name": "Siamese_181.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_182.jpg",
+    "image_name": "Siamese_182.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_183.jpg",
+    "image_name": "Siamese_183.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_184.jpg",
+    "image_name": "Siamese_184.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_185.jpg",
+    "image_name": "Siamese_185.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_186.jpg",
+    "image_name": "Siamese_186.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_187.jpg",
+    "image_name": "Siamese_187.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_188.jpg",
+    "image_name": "Siamese_188.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_189.jpg",
+    "image_name": "Siamese_189.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_18.jpg",
+    "image_name": "Siamese_18.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_191.jpg",
+    "image_name": "Siamese_191.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_193.jpg",
+    "image_name": "Siamese_193.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_194.jpg",
+    "image_name": "Siamese_194.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_195.jpg",
+    "image_name": "Siamese_195.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_196.jpg",
+    "image_name": "Siamese_196.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_198.jpg",
+    "image_name": "Siamese_198.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_199.jpg",
+    "image_name": "Siamese_199.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_19.jpg",
+    "image_name": "Siamese_19.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_200.jpg",
+    "image_name": "Siamese_200.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_201.jpg",
+    "image_name": "Siamese_201.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_202.jpg",
+    "image_name": "Siamese_202.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_204.jpg",
+    "image_name": "Siamese_204.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_205.jpg",
+    "image_name": "Siamese_205.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with distinctive colorpoint coat pattern"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_206.jpg",
+    "image_name": "Siamese_206.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_207.jpg",
+    "image_name": "Siamese_207.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a sleek siamese cat sitting on a white background"
+  },
+  {
+    "image_path": "..\\data\\oxford-iiit-pet\\images\\Siamese_208.jpg",
+    "image_name": "Siamese_208.jpg",
+    "class_name": "Siamese",
+    "class_idx": 4,
+    "caption": "a siamese cat with blue eyes and dark brown points"
+  }
+]
