@@ -68,7 +68,7 @@ def generate_captions(data_dir, output_path, model_name="Salesforce/blip2-opt-2.
         json.dump(results, f, ensure_ascii=False, indent=2)
     
     print(f"\nCaption生成完成，已保存到: {output_path}")
-    print(f"总计生成 {len(results)} 条caption")
+    print(f"共生成 {len(results)} 条caption")
     
     # 展示5个样例
     print("\n=== Caption样例展示 ===")
