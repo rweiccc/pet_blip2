@@ -14,16 +14,7 @@ from dataset import PetDataset, SELECTED_CLASSES
 
 def generate_captions(data_dir, output_path, model_name="Salesforce/blip2-opt-2.7b", 
                       max_new_tokens=30, device=None):
-    """
-    使用BLIP-2为宠物图像生成caption
-    
-    Args:
-        data_dir: 数据集根目录
-        output_path: 输出JSON文件路径
-        model_name: BLIP-2模型名称
-        max_new_tokens: 生成文本最大长度
-        device: 运行设备
-    """
+   
     if device is None:
         device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"使用设备: {device}")
@@ -64,7 +55,7 @@ def generate_captions(data_dir, output_path, model_name="Salesforce/blip2-opt-2.
         generated_text = processor.batch_decode(generated_ids, skip_special_tokens=True)[0].strip()
         
         results.append({
-            "image_path": img_path,
+            "image_path": str(img_path),
             "image_name": os.path.basename(img_path),
             "class_name": class_name,
             "class_idx": label_idx,
@@ -90,10 +81,7 @@ def generate_captions(data_dir, output_path, model_name="Salesforce/blip2-opt-2.
 
 
 def generate_mock_captions(data_dir, output_path):
-    """
-    生成模拟caption（用于测试代码流程，不实际调用BLIP-2）
-    当电脑无法加载大模型时可以用这个先跑通流程
-    """
+    
     print("生成模拟caption（用于测试流程）...")
     
     # 加载数据集
@@ -165,7 +153,7 @@ def generate_mock_captions(data_dir, output_path):
         caption = random.choice(templates)
         
         results.append({
-            "image_path": img_path,
+            "image_path": str(img_path),
             "image_name": os.path.basename(img_path),
             "class_name": class_name,
             "class_idx": label_idx,
