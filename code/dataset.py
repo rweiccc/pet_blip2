@@ -9,7 +9,6 @@ from torchvision import datasets, transforms
 from PIL import Image
 
 
-# 推荐的10个宠物类别
 SELECTED_CLASSES = [
     'Abyssinian', 'Bengal', 'Birman', 'Persian', 'Siamese',
     'american_bulldog', 'american_pit_bull_terrier',
@@ -18,7 +17,7 @@ SELECTED_CLASSES = [
 
 
 def get_image_transforms(img_size=224, train=True):
-    """获取图像预处理transform"""
+    
     if train:
         return transforms.Compose([
             transforms.Resize((img_size, img_size)),
@@ -37,18 +36,9 @@ def get_image_transforms(img_size=224, train=True):
 
 
 class PetDataset(Dataset):
-    """
-    宠物品种图像数据集（仅图像，用于image-only模型）
-    从Oxford-IIIT Pet数据集中选择指定类别
-    """
+    
     def __init__(self, root_dir, selected_classes=None, transform=None, download=True):
-        """
-        Args:
-            root_dir: 数据集根目录
-            selected_classes: 选择的类别列表，None则使用全部推荐类别
-            transform: 图像变换
-            download: 是否自动下载
-        """
+       
         self.root_dir = root_dir
         self.transform = transform
         
@@ -58,21 +48,19 @@ class PetDataset(Dataset):
         self.class_to_idx = {cls: idx for idx, cls in enumerate(selected_classes)}
         self.num_classes = len(selected_classes)
         
-        # 加载完整数据集
         full_dataset = datasets.OxfordIIITPet(
             root=root_dir,
-            split='trainval',  # 使用trainval合并集再自己划分
+            split='trainval',  
             target_types='category',
             download=download
         )
         
-        # 获取类别名称映射
         self.idx_to_class = full_dataset.classes
         
-        # 筛选指定类别的样本
+
         self.samples = []  # (image_path, label_idx)
         for idx in range(len(full_dataset)):
-            img_path, target = full_dataset._images[idx], full_dataset._labels[idx]
+            img_path, target = str(full_dataset._images[idx]), full_dataset._labels[idx]
             class_name = self.idx_to_class[target]
             if class_name in self.class_to_idx:
                 self.samples.append((img_path, self.class_to_idx[class_name]))
@@ -87,7 +75,7 @@ class PetDataset(Dataset):
     
     def __getitem__(self, idx):
         img_path, label = self.samples[idx]
-        image = Image.open(img_path).convert('RGB')
+        image = Image.open(str(img_path)).convert('RGB')
         
         if self.transform:
             image = self.transform(image)
@@ -96,10 +84,7 @@ class PetDataset(Dataset):
 
 
 def split_dataset(dataset, train_ratio=0.7, val_ratio=0.1, test_ratio=0.2, seed=42):
-    """
-    将数据集划分为train/val/test
-    保证每个类别在各子集中都有样本
-    """
+   
     assert abs(train_ratio + val_ratio + test_ratio - 1.0) < 1e-5
     
     # 按类别分组
@@ -138,17 +123,9 @@ def split_dataset(dataset, train_ratio=0.7, val_ratio=0.1, test_ratio=0.2, seed=
 
 
 class PetCaptionDataset(Dataset):
-    """
-    图文融合数据集：同时加载图像和对应的caption文本
-    """
+    
     def __init__(self, base_dataset, captions_json, vocab=None, max_len=30):
-        """
-        Args:
-            base_dataset: 基础图像数据集（PetDataset或其子集）
-            captions_json: caption文件路径
-            vocab: 词汇表，None则自动构建
-            max_len: 文本最大长度
-        """
+       
         self.base_dataset = base_dataset
         self.max_len = max_len
         
